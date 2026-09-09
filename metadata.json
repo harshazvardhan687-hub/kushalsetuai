@@ -1,6 +1,10 @@
 {
-  "name": "Retail Enterprise Advisory & SkillProof Hub",
-  "description": "Professional enterprise advisory, AI mentor simulation, multilingual audio guidance in English, Telugu, and Hindi, and verified SkillProof challenges for independent retail merchants and community organizations.",
-  "requestFramePermissions": ["microphone"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "name": "KaushalSetu AI",
+  "description": "From Local Problems to Proven Skills and Real Employment — Connecting local businesses, Kirana stores and NGOs with ambitious students through AI-verified missions.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
