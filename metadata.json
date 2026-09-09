@@ -1,0 +1,6 @@
+{
+  "name": "Retail Enterprise Advisory & SkillProof Hub",
+  "description": "Professional enterprise advisory, AI mentor simulation, multilingual audio guidance in English, Telugu, and Hindi, and verified SkillProof challenges for independent retail merchants and community organizations.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
